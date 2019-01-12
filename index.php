@@ -20,12 +20,12 @@
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/index.js"></script>
-    <title>Home</title>
+    <title>VirusS</title>
 </head>
 <body>
     <div class="container">
         <?php
-            echo "<h1>hello world</h1>"
+            echo "<h1>Welcome back VirusS</h1>"
         ?>
         <div class="row">
             <div class="col-4">Home</div>
